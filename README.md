@@ -11,4 +11,4 @@ Materi yang dibahas:
 7. [Promises](https://github.com/rizalasrul/talk-async-javascript/tree/7-promise)
 8. [Chaining promises](https://github.com/rizalasrul/talk-async-javascript/tree/8-chaining-promise)
 9. [Fetch API](https://github.com/rizalasrul/talk-async-javascript/tree/9-fetch-api)
-10. [Async & await](https://github.com/rizalasrul/talk-async-javascript/tree/10-async-await)
+10. [Async & await](https://github.com/rizalasrul/talk-async-javascript/tree/10-asycn-await)
