@@ -12,3 +12,5 @@ Materi yang dibahas:
 8. [Chaining promises](https://github.com/rizalasrul/talk-async-javascript/tree/8-chaining-promise)
 9. [Fetch API](https://github.com/rizalasrul/talk-async-javascript/tree/9-fetch-api)
 10. [Async & await](https://github.com/rizalasrul/talk-async-javascript/tree/10-asycn-await)
+
+Slide: [here](https://www.slideshare.net/RizalAsrulPambudi/understanding-asynchronous-process-on-website)
